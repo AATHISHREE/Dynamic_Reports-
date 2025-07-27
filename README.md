@@ -1,4 +1,4 @@
-📦 Inventory Stock Dashboard
+#📦 Inventory Stock Dashboard
 A simple and responsive Inventory Management Dashboard built using React and Chart.js. It visually displays product stock, stock by category, low stock items, and weekly stock activity using interactive charts.
 
 🚀 Features
@@ -32,19 +32,6 @@ API: Connected to backend at http://localhost:5000/api
 
 └── README.md
 
-💻 How to Run
-# 1. Clone the repository
-git clone https://github.com/AATHISHREE/Dynamic_Reports
-
-# 2. Install dependencies
-npm install
-
-# 3. Start the React app
-npm start
-The app runs on:
-📍 http://localhost:3000
-
-Make sure your backend is running at http://localhost:5000.
 
 📸 Screenshots
 <img width="1862" height="605" alt="image" src="https://github.com/user-attachments/assets/00968fba-ddb0-4b4a-992c-179b8dd3fe4d" />
