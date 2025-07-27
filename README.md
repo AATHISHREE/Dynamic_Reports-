@@ -1,4 +1,5 @@
-#📦 Inventory Stock Dashboard
+# Inventory Stock Dashboard
+
 A simple and responsive Inventory Management Dashboard built using React and Chart.js. It visually displays product stock, stock by category, low stock items, and weekly stock activity using interactive charts.
 
 🚀 Features
